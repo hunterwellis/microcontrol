@@ -1,5 +1,5 @@
-#ifndef PID_CONTROLLER_H
-#define PID_CONTROLLER_H
+#ifndef MICROCONTROL_H
+#define MICROCONTROL_H
 
 typedef struct {
 
